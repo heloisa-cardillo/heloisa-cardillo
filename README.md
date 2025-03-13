@@ -8,7 +8,7 @@ Fique à vontade para me chamar se quiser trocar ideias sobre:
 - Ou simplesmente falar sobre coelhos 🐰
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/heloisa-cardillo-lima/)  
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:heloisacardillo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=heloisacardillo@gmail.com)
 
 ---
 
