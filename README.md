@@ -1,22 +1,11 @@
-## 👩‍💻 Sobre Mim
-
 - 🎓 Estudando **Desenvolvimento de Software Multiplataformas** na **FATEC** em São José dos Campos
 - 📚 Primeira graduação em **Ciências Sociais** pela **UNESP Araraquara**.
-- 🌍 Durante minha trajetória acadêmica, participei da **ENACTUS**, uma organização internacional dedicada ao desenvolvimento de projetos de empreendedorismo social 
-- 🏆 Em um hackathon da Enactus, atuei como líder de equipe e conquistamos uma das primeiras colocações com um projeto inovador voltando para pequenos produtores rurais.
-- 🐇 Fun fact: Sou a "louca dos coelhos" 🐰, tutora de **7 coelhinhos fofos**!
-
+- 🐇 Fun fact: tutora de **7 coelhinhos fofos**!
 ---
-
-### 🚀 Vamos Conectar!
-
-Se quiser trocar ideias sobre:
-- Desenvolvimento de software
+Fique à vontade para me chamar se quiser trocar ideias sobre:
+- Desenvolvimento de Software ou Aplicativos no Android Studio
 - Projetos de **empreendedorismo social com foco em tecnologia**
-- Iniciativas inovadoras
-- Ou simplesmente falar sobre coelhos 🐇
-
-Fique à vontade para me chamar!
+- Ou simplesmente falar sobre coelhos 🐰
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/heloisa-cardillo-lima/)  
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:heloisacardillo@gmail.com)
