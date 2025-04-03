@@ -25,5 +25,4 @@ Fique à vontade para me chamar se quiser trocar ideias sobre:
             <img src="https://skillicons.dev/icons?i=html" />
             <img src="https://skillicons.dev/icons?i=github" />
             <img src="https://skillicons.dev/icons?i=figma" />
-            <img src="https://skillicons.dev/icons?i=discord" />
  </div>
