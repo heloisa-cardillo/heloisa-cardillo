@@ -1,6 +1,6 @@
 - 🎓 Estudando **Desenvolvimento de Software Multiplataformas** na **FATEC** em São José dos Campos
 - 📚 Primeira graduação em **Ciências Sociais** pela **UNESP Araraquara**.
-- ✨ Fun fact: tutora de 🐇 7 coelhinhos fofos e uma 🦜 calopsita charmosa!
+- ✨ Fun fact: tutora de 🐇 sete coelhinhos e 🦜 uma calopsita !
 ---
 Fique à vontade para me chamar se quiser trocar ideias sobre:
 - Desenvolvimento de Software ou Aplicativos no Android Studio
